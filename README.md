@@ -16,9 +16,9 @@ Expo: Execute this command from your command line `npm install expo-cli --global
 
 Install using yarn add $package in your client/ directory. 
 
-@react-native-community/masked-view
-react-native-gifted-chat
-react-native-gesture-handler
-react-native-safe-area-context
-react-navigation
-react-navigation-stack
+@react-native-community/masked-view </br>
+react-native-gifted-chat </br>
+react-native-gesture-handler </br>
+react-native-safe-area-context </br>
+react-navigation </br>
+react-navigation-stack </br>
