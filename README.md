@@ -14,7 +14,7 @@ Expo: Execute this command from your command line `npm install expo-cli --global
 
 ## Frontend dependencies
 
-Install using yarn add $package in your client/ directory. 
+Install using `yarn add $package` in your client/ directory. 
 
 @react-native-community/masked-view </br>
 react-native-gifted-chat </br>
